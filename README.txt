@@ -1,4 +1,6 @@
-For using all files (except DNA-actions) you need to instal excel add-in ChemicalFormulas-1.1.xla which is also represented in the main directory
+For using all files (except DNA-actions) you need to instal excel add-in ChemicalFormulas-1.1.xla which is also represented in the main directory.
+For DNA-actions you need to unlock the file and allow macros for running it correctly.
+
 
 To install and activate the Excel Add-Ins you need to follow these steps,
 Go to the file tab.
